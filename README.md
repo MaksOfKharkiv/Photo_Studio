@@ -1,1 +1,1 @@
-# Photo_Studio
+Photo Studio Template
